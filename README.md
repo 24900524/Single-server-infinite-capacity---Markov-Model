@@ -52,7 +52,6 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
      print("Warning! Objects Over flow will happen in the conveyor")
  print("---------------------------------------------------------------")
 ```
-![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
 
 ## Output :
 ![image](https://github.com/user-attachments/assets/4488cdbd-48dc-41cc-83a4-cbd99d326300)
